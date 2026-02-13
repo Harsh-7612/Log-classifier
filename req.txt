@@ -1,0 +1,4 @@
+scikit-learn
+regex
+python-dotenv
+sentence_transformers
